@@ -1,0 +1,43 @@
+# Language: Français
+# Module: accessConfig - 0.9.2
+# Date: 2019-03-25 11:48:35
+# Translated with translater 2013.05.11
+
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: accessConfig 0.9.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2019-03-25T11:48:35+00:00\n"
+"Last-Translator: admin admin\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: _widgets.php:13
+msgid "Style selector to let users adapt your blog to their needs."
+msgstr "Sélecteur de styles permettant d'adapter votre blog aux besoins de vos lecteurs."
+
+#: _widgets.php:14
+msgid "Accessibility Settings"
+msgstr "Paramètres d’accessibilité"
+
+#: _widgets.php:15
+msgid "Font adaptation"
+msgstr "Adaptation de la police"
+
+#: _widgets.php:16
+msgid "Line Spacing adaptation"
+msgstr "Adaptation de l'interlignage"
+
+#: _widgets.php:17
+msgid "Justification adaptation"
+msgstr "Adaptation de la justification"
+
+#: _widgets.php:18
+msgid "Contrast adaptation"
+msgstr "Adaptation du contraste"
+
+msgid "Modal display mode"
+msgstr "Mode d'affichage modal"
+
